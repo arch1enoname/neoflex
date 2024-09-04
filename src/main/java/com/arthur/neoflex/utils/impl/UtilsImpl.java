@@ -2,7 +2,6 @@ package com.arthur.neoflex.utils.impl;
 
 import com.arthur.neoflex.enums.Holiday;
 import com.arthur.neoflex.utils.Utils;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 import java.time.DayOfWeek;

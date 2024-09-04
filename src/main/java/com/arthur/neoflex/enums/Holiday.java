@@ -2,9 +2,6 @@ package com.arthur.neoflex.enums;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
-import lombok.Setter;
-
-import java.time.LocalDate;
 import java.time.Month;
 
 import static java.time.Month.*;
